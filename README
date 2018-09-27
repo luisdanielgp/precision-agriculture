@@ -1,3 +1,10 @@
+Los archivos mt_* son ejemplos de clasificadores los cuales se investigaron previamente, aunque finalmente se utilizó el clasificador que está definido en flores.mlx
+
+existe una carpeta llamada data donde están los conjuntos de datos para el clasificador, donde están las categorías de Hojas Y Flores
+
+El PDF muestra de una manera gráfica el resultado del clasificador.
+
+
 Los recursos que se utilizaron como base para generar el código es el siguiente:
 
 https://www.mathworks.com/matlabcentral/fileexchange/62990-deep-learning-tutorial-series?ue
